@@ -39,12 +39,13 @@ The tribute page highlights the life, contributions, and legacy of Al-Khwarizmi.
 
 ## 📷 Preview
 
-Here’s a preview of the project design (![Screenshot_1](https://github.com/user-attachments/assets/a2b3f892-2b60-42e1-b932-f8ea6ce3a41b)![Screenshot_7](https://github.com/user-attachments/assets/0518a584-6223-4c1a-a0a8-0a82eb87f047)
-![Screenshot_6](https://github.com/user-attachments/assets/700b842b-2c75-417d-874c-7c9f0fe752f9)
-![Screenshot_5](https://github.com/user-attachments/assets/6030e5ea-9e96-446f-85d5-addfb64cb31f)
-![Screenshot_4](https://github.com/user-attachments/assets/e5e0372c-ad84-4d30-8d74-94d6594fec0d)
-![Screenshot_3](https://github.com/user-attachments/assets/85791b90-6ca3-4fa5-a159-8a1b4970bfbf)
+Here’s a preview of the project design (![Screenshot_1](https://github.com/user-attachments/assets/a2b3f892-2b60-42e1-b932-f8ea6ce3a41b)
 ![Screenshot_2](https://github.com/user-attachments/assets/32da804c-d4df-4081-ae7a-973f5981e9b2)
+![Screenshot_3](https://github.com/user-attachments/assets/85791b90-6ca3-4fa5-a159-8a1b4970bfbf)
+![Screenshot_4](https://github.com/user-attachments/assets/e5e0372c-ad84-4d30-8d74-94d6594fec0d)
+![Screenshot_5](https://github.com/user-attachments/assets/6030e5ea-9e96-446f-85d5-addfb64cb31f)
+![Screenshot_6](https://github.com/user-attachments/assets/700b842b-2c75-417d-874c-7c9f0fe752f9)
+![Screenshot_7](https://github.com/user-attachments/assets/0518a584-6223-4c1a-a0a8-0a82eb87f047)
 ).
 
 ---
