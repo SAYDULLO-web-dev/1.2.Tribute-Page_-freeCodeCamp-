@@ -40,6 +40,7 @@ The tribute page highlights the life, contributions, and legacy of Al-Khwarizmi.
 ## 📷 Preview
 
 Here’s a preview of the project design (
+
 ![Screenshot_1](https://github.com/user-attachments/assets/a2b3f892-2b60-42e1-b932-f8ea6ce3a41b)
 ![Screenshot_2](https://github.com/user-attachments/assets/32da804c-d4df-4081-ae7a-973f5981e9b2)
 ![Screenshot_3](https://github.com/user-attachments/assets/85791b90-6ca3-4fa5-a159-8a1b4970bfbf)
