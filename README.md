@@ -58,7 +58,7 @@ To view the tribute page locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SAYDULLO-web-dev/tribute-page-al-khwarizmi.git
+   git clone https://github.com/SAYDULLO-web-dev/1.2.Tribute-Page_-freeCodeCamp-.git
 
 2. Open the index.html file in a modern web browser.
 
